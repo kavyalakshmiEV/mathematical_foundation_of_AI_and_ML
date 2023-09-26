@@ -1,0 +1,70 @@
+DATA STRUCTURES OF ALGEBRA 
+
+COMMON TENSOR OPERATIONS 
+
+MATRIX PROPERTIES 
+
+ 
+
+DATA STRUCTURES OF ALGEBRA: 
+
+LINEAR ALGEBRA: 
+
+Algebra is arithmetic that includes non- numerical entities like x 
+
+Ex: 2x+5=25 
+
+ 
+
+If it has an exponential term, it isn't algebra 
+
+Ex: 2x^2 + 5 = 25 (or) 2x^0.5 +5 =25 
+
+ 
+
+Solving for un-knowns within system of linear equations 
+
+If bank robber start a head of sheriff 5 minutes and speed of robber is 2.5km/hr and sheriff is 3km/hr 
+
+Ex: d=2.5t and d=3(t-5) 
+
+2.5t =3t-15 
+
+T=-15/-0.5 
+
+T= 30 
+
+Sheriff catches the robber in 30 minutes 
+
+ 
+
+ 
+
+But if the speed of sheriff is also 2.5km/hr then there is no solution 
+
+And if they travel at same speed and at same time there will be infinite solutions 
+
+ 
+
+So in linear algebra either it has one solution, no solution  or infinite solution 
+
+ 
+
+
+ 
+
+It is a regression model 
+
+Trying to predict house price 
+
+
+Each y represents each house 
+
+Xi1 to xim are features of house 
+
+ a, b, c are variables which are unknown 
+
+ 
+
+
+https://github.com/jonkrohn/ml-foundations 
